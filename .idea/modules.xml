@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/codejams/2020-Q1/nesting-depth/nesting-depth.iml" filepath="$PROJECT_DIR$/codejams/2020-Q1/nesting-depth/nesting-depth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codejams/2020-Q1/parenting-partnering-returns/parenting-partnering-returns.iml" filepath="$PROJECT_DIR$/codejams/2020-Q1/parenting-partnering-returns/parenting-partnering-returns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codejams/2020-Q1/vestigium/vestigium.iml" filepath="$PROJECT_DIR$/codejams/2020-Q1/vestigium/vestigium.iml" />
+    </modules>
+  </component>
+</project>

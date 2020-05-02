@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="vestigium_test.dart" type="DartTestRunConfigurationType" factoryName="Dart Test">
+    <option name="filePath" value="$PROJECT_DIR$/codejams/2020-Q1/vestigium/test/vestigium_test.dart" />
+    <method v="2" />
+  </configuration>
+</component>
