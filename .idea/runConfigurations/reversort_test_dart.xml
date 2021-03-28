@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="reversort_test.dart" type="DartTestRunConfigurationType" factoryName="Dart Test">
+    <option name="filePath" value="$PROJECT_DIR$/code-jams/2021-Q1/reversort/test/reversort_test.dart" />
+    <method v="2" />
+  </configuration>
+</component>
