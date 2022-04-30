@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/code-jams/2022-Q1/chain-reactions/chain-reactions.iml" filepath="$PROJECT_DIR$/code-jams/2022-Q1/chain-reactions/chain-reactions.iml" />
       <module fileurl="file://$PROJECT_DIR$/code-jams/2021-1C/closest-pick/closest-pick.iml" filepath="$PROJECT_DIR$/code-jams/2021-1C/closest-pick/closest-pick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code-jams/2022-1C/letter-blocks/letter-blocks.iml" filepath="$PROJECT_DIR$/code-jams/2022-1C/letter-blocks/letter-blocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/code-jams/2021-Q1/median-sort/median-sort.iml" filepath="$PROJECT_DIR$/code-jams/2021-Q1/median-sort/median-sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/code-jams/2021-Q1/moons-and-umbrellas/moons-and-umbrellas.iml" filepath="$PROJECT_DIR$/code-jams/2021-Q1/moons-and-umbrellas/moons-and-umbrellas.iml" />
       <module fileurl="file://$PROJECT_DIR$/code-jams/2020-Q1/nesting-depth/nesting-depth.iml" filepath="$PROJECT_DIR$/code-jams/2020-Q1/nesting-depth/nesting-depth.iml" />
