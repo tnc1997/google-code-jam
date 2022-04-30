@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="three_dimensional_printing_test.dart" type="DartTestRunConfigurationType" factoryName="Dart Test">
+    <option name="filePath" value="$PROJECT_DIR$/code-jams/2022-Q1/three-dimensional-printing/test/three_dimensional_printing_test.dart" />
+    <method v="2" />
+  </configuration>
+</component>
